@@ -1,7 +1,7 @@
 # IN1007-Coursework
-Java Game Coursework for IN1007 Module. Using JBox2D engine (City University, Modified Version).
+A James Bond-themed game made in Java using the JBox2D engine (City University, Modified Version).
 
-This was my first time programming with Java.
+(This game was made in 2018 and was my first project I had ever done in Java)
 
 ## How to Run (in IntelliJ IDEA):
 * Go to File -> Project Structure -> Libraries. Press the "+" button and add the CityEngine.jar file.
